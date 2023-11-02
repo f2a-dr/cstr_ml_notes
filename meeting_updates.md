@@ -27,3 +27,7 @@ Previous simulations with a number of cells $\sim$ 5M showed good agreement with
 - [ ] Upload some of the previous simulations that were in agreement with the literature.
 
 - [ ] If possible, plot the grid independences on the velocity profile.
+
+- [ ] Grid independence with First Order Upwind scheme only.
+
+- [ ] Check consistency with experimental data (Coroneo et al., 2011).
